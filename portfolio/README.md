@@ -72,3 +72,4 @@ git push -u origin main
 ## Customizing the palette
 
 Colors live in `tailwind.config.ts` under `theme.extend.colors` (`plum`, `rose`, `gold`, `cream`). Adjust hex values there to shift the theme.
+"# MichTech" 
